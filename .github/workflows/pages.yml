@@ -37,6 +37,8 @@ jobs:
     steps:
       - name: Set up Pages
         uses: actions/configure-pages@v5
+        with:
+          enablement: true
       - name: Publish
         id: deployment
         uses: actions/deploy-pages@v4
