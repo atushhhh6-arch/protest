@@ -1,2 +1,8 @@
 import { defineConfig } from 'vite';
-export default defineConfig({ base: './' });
+
+// Cloudflare Pages' Vite setup expects a plugins array, even for a static app.
+export default defineConfig({
+  base: './',
+  plugins: []
+});
+
