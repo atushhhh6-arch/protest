@@ -52,4 +52,3 @@ Semantic sections, labeled controls, keyboard-operable front/back and rotation c
 - `tests/design.test.js`: artwork validation, image aspect ratio and rotation tests
 
 The visual reference informed the immersive mannequin-centered interaction. No reference-site code, imagery, personal likeness, or sponsorship data was copied. Event copy is informational and politically neutral.
-
